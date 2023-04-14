@@ -21,7 +21,7 @@ define([
   'dojo/promise/all',
   'esri/lang',
   'jimu/portalUrlUtils',
-  './table/_FeatureTable',
+  './table/_FeatureTable', 
   // './_RelationshipTable',
   'jimu/utils',
   './utils',
